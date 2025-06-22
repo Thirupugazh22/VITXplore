@@ -1,2 +1,16 @@
 # VITXplore
 It is a project about connecting students, like a social media platform 
+
+## ⚠️ License Notice
+
+This project is **NOT open-source**.  
+All rights are reserved.
+
+You are **not allowed** to:
+- Copy or reuse any part of this code.
+- Modify or redistribute it.
+- Use it in any personal or commercial project.
+
+Unauthorized use is a **violation of copyright law** and may result in legal action.
+
+© 2025 Thirupugazh S
